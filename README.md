@@ -2,14 +2,15 @@
 Stork Delivery System (SDS)
 created: 17 Jul 18
 updated: 24 Feb 2020 -->
-
+StorkDeliverySystem
 <!-- Download on SpaceDock here or Github here.
 Also available on CKAN. -->
 
 # Stork Delivery System (SDS)
 ## Kermangeddon Industries
-![Mod Version](https://img.shields.io/github/v/release/zer0Kerbal/SimpleLife?include_prereleases)
-![KSP version](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzer0Kerbal%2FStorkDeliverySystem%2Fmaster%2Fjson%2Fksp.json) ![CKAN listed](https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg) ![License CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey)
+![Mod Version](https://img.shields.io/github/v/release/zer0Kerbal/StorkDeliverySystem?include_prereleases)
+![KSP version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/StorkDeliverySystem/master/json/ksp.json
+&style=plastic) ![CKAN listed](https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg) ![License CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey)
 
 Stork Delivery System [SDS] by Riocrokite
 
