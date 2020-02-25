@@ -27,9 +27,8 @@ Vertical frames with integrated legs for interstage and planetary delivery.
 - allows you to deliver tall 2.5m or 3.75m diameter parts to planet surface thanks to 6m long, extendable legs.
 - lightweight - reusing same textures wherever possible
 - integrated approach - one integrated part for frame and legs to increase stability and reduce part count
-<center>
-![AniGif](https://i.imgur.com/np7h3te.gif)
-</center>
+
+[AniGif](https://i.imgur.com/np7h3te.gif)
 <hr>
 
 ### Example usages:
