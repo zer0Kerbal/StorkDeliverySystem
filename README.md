@@ -8,7 +8,8 @@ Also available on CKAN. -->
 <!--center-->
 # Stork Delivery System (SDS)
 ## Kermangeddon Industries<!--/center-->
-<!--center-->![Mod Version](https://img.shields.io/github/v/release/zer0Kerbal/StorkDeliverySystem?include_prereleases?style=plastic)
+<!--center-->
+![Mod Version](https://img.shields.io/github/v/release/zer0Kerbal/StorkDeliverySystem?include_prereleases?style=plastic)
 ![KSP version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/StorkDeliverySystem/master/json/ksp.json?style=plastic) ![KSP-AVC](https://img.shields.io/badge/KSP-AVC--supported-brightgreen.svg?style=plastic) ![License CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey?style=plastic)<br>
 ![Spacedock](https://img.shields.io/badge/SpaceDock-listed-blue.svg?style=plastic) ![CKAN](https://img.shields.io/badge/CKAN-Indexed-blue.svg?style=plastic) ![Github](https://img.shields.io/badge/Github-Indexed-blue.svg?style=plastic) ![Curseforge](https://img.shields.io/badge/CurseForge-listed-blue.svg?style=plastic)  <!--/center-->
 
@@ -66,10 +67,8 @@ Vertical frames with integrated legs for interstage and planetary delivery.
 ### Supports
 - [Kerbal Change Log](https://forum.kerbalspaceprogram.com/index.php?/topic/179207-*)
 <hr>
-<a href="https://forum.kerbalspaceprogram.com/index.php?/topic/83212-*"><img src="https://i.imgur.com/YdYfStN.jpg"/></a>
 
-
-[](https://i.imgur.com/YdYfStN.jpg)(https://forum.kerbalspaceprogram.com/index.php?/topic/83212-*)
+<a href="https://forum.kerbalspaceprogram.com/index.php?/topic/83212-*" target="_blank><img src="https://i.imgur.com/YdYfStN.jpg"/></a>
 
 ## License
 - [CC 4.0 BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/) ![CC BY-NC-SA 4.0](https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/88x31.png "CC BY-NC-SA 4.0")<br>
