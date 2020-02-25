@@ -9,14 +9,14 @@ Also available on CKAN. -->
 # Stork Delivery System (SDS)
 ## Kermangeddon Industries
 ![Mod Version](https://img.shields.io/github/v/release/zer0Kerbal/StorkDeliverySystem?include_prereleases?style=plastic)
-![KSP version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/StorkDeliverySystem/master/json/ksp.json?style=plastic) ![KSP-AVC](https://img.shields.io/badge/KSP-AVC--supported-brightgreen.svg?style=plastic) ![License CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey?style=plastic)
+![KSP version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/StorkDeliverySystem/master/json/ksp.json?style=plastic) ![KSP-AVC](https://img.shields.io/badge/KSP-AVC--supported-brightgreen.svg?style=plastic) ![License CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey?style=plastic)<br>
 ![Spacedock](https://img.shields.io/badge/SpaceDock-listed-blue.svg?style=plastic) ![CKAN](https://img.shields.io/badge/CKAN-Indexed-blue.svg?style=plastic) ![Github](https://img.shields.io/badge/Github-Indexed-blue.svg?style=plastic) ![Curseforge](https://img.shields.io/badge/CurseForge-listed-blue.svg?style=plastic)  
 
-Stork Delivery System [SDS] by Riocrokite
+Stork Delivery System [SDS] by [riocrokite](https://forum.kerbalspaceprogram.com/index.php?/profile/129319-riocrokite/)
 
 > ***A Payload parts mod that Delivers your big cargo to the planet surface without flipping!*** 
 ## Author
-adopted for curation by ***[zer0Kerbal](https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/)*** Originally created by [***MatterBeam***](http://forum.kerbalspaceprogram.com/index.php?/profile/133334-matterbeam/)
+adopted for curation by ***[zer0Kerbal](https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/)*** Originally created by [***riocrokite***](https://forum.kerbalspaceprogram.com/index.php?/profile/129319-riocrokite/)
 
 ![Kermangeddon Industries](https://raw.githubusercontent.com/zer0Kerbal/StorkDeliverySystem/master/images/banner.png "banner")
 ![Stork Delivery System (SDS)](https://raw.githubusercontent.com/zer0Kerbal/StorkDeliverySystem/master/images/logo250x250.png "logo")
@@ -86,7 +86,7 @@ Stork Delivery System is licensed under a Creative Commons Attribution-NonCommer
 - ***All bundled mods are distributed under their own licenses***<br>
 - ***All art assets (textures, models, animations) are distributed under their own licenses***<br>
 
-### Content originally created by @Riocrokite.
+### Content originally created by ![riocrokite](https://forum.kerbalspaceprogram.com/index.php?/profile/129319-riocrokite/).
 #### [thread](https://forum.kerbalspaceprogram.com/index.php?/topic/97146-130-mobile-frame-system-mfs-*)
 
 ![Download on Github](https://i.imgur.com/RE4Ppr9.png) ![Download on Spacedock](https://i.imgur.com/m0a7tn2.png) ![Download on Curseforged](https://i.postimg.cc/RZNyB5vP/Download-On-Curse.png)
