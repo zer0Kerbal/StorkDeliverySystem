@@ -66,7 +66,7 @@ Vertical frames with integrated legs for interstage and planetary delivery.
 ### Supports
 - [Kerbal Change Log](https://forum.kerbalspaceprogram.com/index.php?/topic/179207-*)
 <hr>
-<a href="https://forum.kerbalspaceprogram.com/index.php?/topic/83212-"><img src="https://i.imgur.com/YdYfStN.jpg"/></a>
+<a href="https://forum.kerbalspaceprogram.com/index.php?/topic/83212-*"><img src="https://i.imgur.com/YdYfStN.jpg"/></a>
 
 
 [](https://i.imgur.com/YdYfStN.jpg)(https://forum.kerbalspaceprogram.com/index.php?/topic/83212-*)
