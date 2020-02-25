@@ -27,13 +27,15 @@ Vertical frames with integrated legs for interstage and planetary delivery.
 - allows you to deliver tall 2.5m or 3.75m diameter parts to planet surface thanks to 6m long, extendable legs.
 - lightweight - reusing same textures wherever possible
 - integrated approach - one integrated part for frame and legs to increase stability and reduce part count
-<!--center-->[AniGif](https://i.imgur.com/np7h3te.gif)<!--/center-->
+<center>
+![AniGif](https://i.imgur.com/np7h3te.gif)
+</center>
 <hr>
 
 ### Example usages:
  > Delivery of cargo trucks (with an assistance of JebPush TM at the end:))
 
-<!--center-->[View full album ](https://imgur.com/a/ohmmS)<!--/center-->
+![View full album ](https://imgur.com/a/ohmmS)
 
 ### Warnings or 'cabin sticky notes'
 - When placing engines above center of mass be sure to either lock gimbals or not use SAS because of KSP bug {you might try to solve it using Tweakable Everything mod and reversing thrust of engines that are above center of mass}
