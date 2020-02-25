@@ -9,7 +9,13 @@ Also available on CKAN. -->
 # Stork Delivery System (SDS)
 ## Kermangeddon Industries
 ![Mod Version](https://img.shields.io/github/v/release/zer0Kerbal/StorkDeliverySystem?include_prereleases?style=plastic)
-![KSP version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/StorkDeliverySystem/master/json/ksp.json?style=plastic) ![CKAN listed](https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg?style=plastic) ![License CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey?style=plastic)
+![KSP version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/StorkDeliverySystem/master/json/ksp.json?style=plastic) ![KSP-AVC](https://img.shields.io/badge/KSP-AVC-supported-brightgreen.svg?style=plastic) ![License CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey?style=plastic)
+
+
+![Spacedock](https://img.shields.io/badge/SpaceDock-listed-blue.svg?style=plastic) 
+![CKAN](https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg?style=plastic) 
+![Github](https://img.shields.io/badge/Github-Indexed-brightgreen.svg?style=plastic) 
+![Curseforge](https://img.shields.io/badge/CurseForge-listed-blue.svg?style=plastic)  
 
 Stork Delivery System [SDS] by Riocrokite
 
@@ -51,7 +57,7 @@ original thread: https://forum.kerbalspaceprogram.com/index.php?/topic/97146-130
 Content originally created by DaMichel.
 ![Hero](https://raw.githubusercontent.com/zer0Kerbal/DaMichel/1.1.0.0/Images/12-CargoBay.jpg)
 
-
+![Download on Github](https://i.imgur.com/RE4Ppr9.png) ![Download on Spacedock](https://i.imgur.com/m0a7tn2.png) ![Download on Curseforged](https://i.postimg.cc/RZNyB5vP/Download-On-Curse.png)
 ###### v0.0.4.0 original: 17 Jul 2018 zed'K | updated: 24 Feb 2020 zed'K
 <!--
 CC BY-NC-SA-4.0
