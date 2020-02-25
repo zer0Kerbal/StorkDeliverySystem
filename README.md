@@ -28,7 +28,7 @@ Vertical frames with integrated legs for interstage and planetary delivery.
 - lightweight - reusing same textures wherever possible
 - integrated approach - one integrated part for frame and legs to increase stability and reduce part count
 
-[AniGif](https://i.imgur.com/np7h3te.gif)
+![AniGif](https://i.imgur.com/np7h3te.gif)
 <hr>
 
 ### Example usages:
