@@ -84,9 +84,12 @@ Stork Delivery System is licensed under a Creative Commons Attribution-NonCommer
 - ***All art assets (textures, models, animations) are distributed under their own licenses***<br>
 
 ### Content originally created by ![riocrokite](https://forum.kerbalspaceprogram.com/index.php?/profile/129319-riocrokite/).
-#### [forum thread](https://forum.kerbalspaceprogram.com/index.php?/topic/97146-130-mobile-frame-system-mfs-*)
+#### [forum thread](https://forum.kerbalspaceprogram.com/index.php?/topic/97146-*)
 
-![Download on Github](https://i.imgur.com/RE4Ppr9.png) ![Download on Spacedock](https://i.imgur.com/m0a7tn2.png) ![Download on Curseforged](https://i.postimg.cc/RZNyB5vP/Download-On-Curse.png)
+<a href="https://github.com/zer0Kerbal/StorkDeliverySystem/releases/tag/0.0.4.0" target="_blank"><img src="https://i.imgur.com/RE4Ppr9.png"/></a>
+<a href="https://spacedock.info/mod/2347" target="_blank"><img src="https://i.imgur.com/m0a7tn2.png"/></a>
+<a href="https://www.curseforge.com/kerbal/ksp-mods/stork-delivery-system-sds" target="_blank"><img src="https://i.postimg.cc/RZNyB5vP/Download-On-Curse.png"/></a>
+
 ###### v0.0.4.0 original: 17 Jul 2018 zed'K | updated: 24 Feb 2020 zed'K
 <!--
 CC BY-NC-SA-4.0
