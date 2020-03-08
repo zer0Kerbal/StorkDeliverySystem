@@ -88,10 +88,10 @@ Stork Delivery System is licensed under a Creative Commons Attribution-NonCommer
 ### Content originally created by ![riocrokite](https://forum.kerbalspaceprogram.com/index.php?/profile/129319-riocrokite/).
 #### [forum thread](https://forum.kerbalspaceprogram.com/index.php?/topic/97146-*)
 
-<a href="https://github.com/zer0Kerbal/StorkDeliverySystem/releases/tag/0.0.4.0" target="_blank"><img src="https://i.imgur.com/RE4Ppr9.png"/></a>
+<a href="https://github.com/zer0Kerbal/StorkDeliverySystem/releases/latest" target="_blank"><img src="https://i.imgur.com/RE4Ppr9.png"/></a>
 <a href="https://spacedock.info/mod/2347" target="_blank"><img src="https://i.imgur.com/m0a7tn2.png"/></a>
 <a href="https://www.curseforge.com/kerbal/ksp-mods/stork-delivery-system-sds" target="_blank"><img src="https://i.postimg.cc/RZNyB5vP/Download-On-Curse.png"/></a>
-
+![Validate AVC .version files](https://github.com/zer0Kerbal/StorkDeliverySystem/workflows/Validate%20AVC%20.version%20files/badge.svg)
 ###### v0.0.4.0 original: 17 Jul 2018 zed'K | updated: 24 Feb 2020 zed'K
 <!--
 CC BY-NC-SA-4.0
