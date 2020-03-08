@@ -25,6 +25,7 @@ Vertical frames with integrated legs for interstage and planetary delivery.
 
 ### Mod characteristics
 - allows you to deliver tall 2.5m or 3.75m diameter parts to planet surface thanks to 6m long, extendable legs.
+- **NEW** 7.5m versions handle up to 7.5m deliveries!
 - lightweight - reusing same textures wherever possible
 - integrated approach - one integrated part for frame and legs to increase stability and reduce part count
 
