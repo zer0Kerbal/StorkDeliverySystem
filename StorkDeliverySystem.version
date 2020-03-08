@@ -1,14 +1,14 @@
 {
-	"NAME": "Stork Delivery System by Kermangeddon Industries (SDS)",
-	"URL": "https://github.com/zer0Kerbal/StorkDeliverySystem/raw/master/StorkDeliverySystem.version",
-	"DOWNLOAD": "http://github.com/zer0Kerbal/StorkDeliverySystem/releases/latest",
-	"CHANGE_LOG_URL": "https://raw.githubusercontent.com/zer0Kerbal/StorkDeliverySystem/0.0.4.0/ChangeLog.cfg",
-    "GITHUB":
-    {
-        "USERNAME":          "zer0Kerbal",
-        "REPOSITORY":        "StorkDeliverySystem",
-        "ALLOW_PRE_RELEASE": false
-    },
+	"NAME":           "Stork Delivery System by Kermangeddon Industries (SDS)",
+	"URL":            "https://github.com/zer0Kerbal/StorkDeliverySystem/raw/master/StorkDeliverySystem.version",
+	"DOWNLOAD":       "http://github.com/zer0Kerbal/StorkDeliverySystem/releases/latest",
+	"CHANGE_LOG_URL": "https://raw.githubusercontent.com/zer0Kerbal/StorkDeliverySystem/Changelog.cfg",
+	"GITHUB":
+	{
+		"USERNAME":          "zer0Kerbal",
+		"REPOSITORY":        "StorkDeliverySystem",
+		"ALLOW_PRE_RELEASE": false
+	},
 	"VERSION":
 	{
 		"MAJOR": 0,
